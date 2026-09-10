@@ -240,3 +240,6 @@ This repository serves as the official landing page for Subway Surfers. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Subway Surfers today!**
+
+---
+**Last updated:** 2026-09-10 08:32:03 UTC
